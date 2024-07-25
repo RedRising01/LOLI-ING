@@ -1,0 +1,1 @@
+New-Item -Path $env:HOMEPATH\corn.txt -ItemType File
